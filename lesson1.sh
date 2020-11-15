@@ -1,4 +1,3 @@
-#!/bin/bash
 LIMIT=100
 prime=0
 for ((a=1; a <= LIMIT ; a++))
